@@ -7,9 +7,8 @@ title: "Introduction"
 
 Hello thinkers,
 
-Welcome to Think Inside The Box. If you wondering why I made this, it's because I just felt to help (maybe) some of you who wonder why we should be an extraordinary in some cases but we know exactly that our capabilities is not that high. So, I'm a JOAT my self, and I'm still wondering too if you ask. Hope my content can help you, Have a nice wondering!
+This space exists for the Jacks of All Trades—the average cogs in a machine that demands us to be extraordinary. We might not have all the high-level capabilities, but we have the curiosity to see how the system truly works from the inside. I'm just a JOAT observing the patterns, and I'm still questioning everything. I hope these notes help you see the box from a different angle.
 
 Sincerely,
 
-
-Daniel Jethro Setiono
+djethro_s
